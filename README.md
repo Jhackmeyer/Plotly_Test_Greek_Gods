@@ -1,3 +1,6 @@
 # Plotly_Test_Greek_Gods
 
-Here, I plot web search frequency of the various Greek Gods. This is to make sure GitHub Pages visualizes my work.
+I use Plotly to graph web search frequency data of the various Greek Gods.
+
+GitHub Pages visualizes the work here: 
+https://jhackmeyer.github.io/Plotly_Test_Greek_Gods/
